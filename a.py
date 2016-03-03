@@ -1,2 +1,2 @@
-a1 = 5
+a1 != 5
 print("hi there" + a1)
